@@ -2,7 +2,7 @@
 
 - **Curso:** Bases de Datos Avanzadas
 - **Docente:** Deivis Eduard Ramírez Martínez
-- **Estudiante:** Steven Alexander Garcia Villada
+- **Estudiante:** Carlos Julian Valenzuela Garcia
 
 Scripts ejecutados para la actividad sobre índices, restricciones, transacciones y archivos de redo en el esquema de ejemplo **HR**. Son exactamente los que aparecen en las capturas del informe.
 
